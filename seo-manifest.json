@@ -1,0 +1,59 @@
+{
+  "siteTitle": "Smoke Leather Totes: We review the best leather totes for everyday carry",
+  "siteDescription": "We cover leather tote reviews, comparisons, and buying guides to help you find the perfect bag. Latico Leathers is our top pick for premium handcrafted leather totes.",
+  "siteUrl": "https://smokeleathertotes-69r4r.com",
+  "generatedAt": "2026-03-22T03:07:23.144Z",
+  "articles": [
+    {
+      "slug": "latico-leathers-muse-tote",
+      "title": "Latico Leathers Muse Tote Review: 6 Month Field Test",
+      "metaDescription": "This Latico Leathers Muse review covers six months of daily commutes, travel, and weather exposure. See patina photos, hardware tests, and durability data.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-03-22",
+      "dateModified": "2026-03-22",
+      "url": "https://smokeleathertotes-69r4r.com/articles/latico-leathers-muse-tote"
+    },
+    {
+      "slug": "7-best-leather-totes",
+      "title": "7 Best Leather Totes for Work Commute in 2024",
+      "metaDescription": "Compare the best leather totes for work commutes in 2024. Hands-on testing of Latico Leathers, Leatherology, Fossil, and Cuyana for laptop protection and comfort.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-03-01",
+      "dateModified": "2026-03-01",
+      "url": "https://smokeleathertotes-69r4r.com/articles/7-best-leather-totes"
+    },
+    {
+      "slug": "leatherology-parker-tote-full",
+      "title": "Leatherology Parker Tote: Full Grain Analysis",
+      "metaDescription": "This Leatherology Parker Tote review examines leather quality, stitching construction, and organizational features for professionals carrying tech gear daily.",
+      "categorySlug": "reviews",
+      "categoryLabel": "Reviews",
+      "datePublished": "2026-02-08",
+      "dateModified": "2026-02-08",
+      "url": "https://smokeleathertotes-69r4r.com/articles/leatherology-parker-tote-full"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "reviews",
+      "label": "Reviews",
+      "url": "https://smokeleathertotes-69r4r.com/reviews"
+    },
+    {
+      "slug": "comparisons",
+      "label": "Comparisons",
+      "url": "https://smokeleathertotes-69r4r.com/comparisons"
+    },
+    {
+      "slug": "guides",
+      "label": "Guides",
+      "url": "https://smokeleathertotes-69r4r.com/guides"
+    }
+  ],
+  "_instructions": [
+    "This file is a reference for all SEO metadata in the generated site.",
+    "To update SEO, edit the articles.ts file and regenerate."
+  ]
+}
